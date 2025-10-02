@@ -27,11 +27,9 @@ Gosto de aprender de tudo e estar sempre preparada. Foi assim que descobri minha
 
 ## 📂 Projetos
 Alguns projetos que já desenvolvi e estão disponíveis no meu GitHub:  
-- [Projeto 1](#) – Descrição curta do projeto  
-- [Projeto 2](#) – Descrição curta do projeto  
-- [Desafios DevClub](#) – Pequenos exercícios e desafios de programação  
-
-> **Dica:** Mesmo projetos pequenos mostram evolução e prática real com código.
+- [Meu Portfólio](https://github.com/TatyOtty/Portfolio/tree/main/Avalia%C3%A7%C3%A3o) – Avaliação do MIX
+- [Desplugados](https://github.com/TatyOtty/Desplugados) – Projeto de formulário para encontro geek
+- [Desafio de Resposividade](https://github.com/TatyOtty/Desafio3-DevClub) – Projeto do DevClub
 
 ---
 
