@@ -27,7 +27,7 @@ Gosto de aprender de tudo e estar sempre preparada. Foi assim que descobri minha
 
 ## 📂 Projetos
 Alguns projetos que já desenvolvi e estão disponíveis no meu GitHub:  
-- [Meu Portfólio](https://github.com/TatyOtty/Portfolio/tree/main/Avalia%C3%A7%C3%A3o) – Avaliação do MIX
+- [Meu Portfólio](https://tatyotty.github.io/MeuPortifolio3/) – Avaliação do MIX
 - [Desplugados](https://github.com/TatyOtty/Desplugados) – Projeto de formulário para encontro geek
 - [Desafio de Resposividade](https://tatyotty.github.io/Easy-Shopping/) – Projeto do DevClub
 
